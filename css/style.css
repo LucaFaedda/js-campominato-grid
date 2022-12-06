@@ -38,7 +38,6 @@ header{
     width: 1000px;
     height: 1000px;
     display: flex;
-    background-color: #fff;
     margin: 5rem auto;
 }
 
@@ -54,4 +53,8 @@ header{
     height: calc(100% / 10);
     background-color: red;
     border: 1px solid black;
+}
+
+.yellow{
+    background-color: yellow;
 }
